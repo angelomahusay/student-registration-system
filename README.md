@@ -1,5 +1,7 @@
 # Student Registration System
 
+![Description of Image](./app/src/images/readme.png)
+
 ## Overview
 This project implements a **Student Registration System** using Python, Tkinter for the GUI, and MySQL as the database backend.  
 The system enables:  
