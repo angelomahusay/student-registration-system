@@ -58,5 +58,5 @@ The initial design was inspired by a YouTube tutorial by [Shashank Saxena](https
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/DeveloperLevin/Student-Registration-System.git
+   git clone https://github.com/angelomahusay/student-registration-system.git
    cd student-registration-system
