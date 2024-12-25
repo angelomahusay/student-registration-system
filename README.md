@@ -29,7 +29,7 @@ The initial design was inspired by a YouTube tutorial by [Shashank Saxena](https
      - Class  
      - Section  
      - Contact Information  
-     - Father’s Name  
+     - Parents
      - Address  
      - Gender  
      - Date of Birth  
